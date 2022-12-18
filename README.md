@@ -1,2 +1,2 @@
 # My-Social-App
-A python / django app social media app
+A python / django social media app
